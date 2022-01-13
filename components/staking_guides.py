@@ -2,9 +2,7 @@ from dash import dcc
 
 what_is_staking_intro = dcc.Markdown(
     '''
-    Staking is the primary protocol profit distribution mechanism
-
-    Click learn more for an overview on staking
+    This is a test.
     '''
 )
 what_is_staking = dcc.Markdown(
